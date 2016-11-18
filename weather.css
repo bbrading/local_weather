@@ -1,0 +1,10 @@
+#body{
+  background-image: url(http://foxpromigration.com/images/bg-header.jpg);
+  background-size: cover;
+}
+
+#header{
+  font-style: oblique;
+  color: white;
+  text-align: center;
+}
