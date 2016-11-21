@@ -7,4 +7,28 @@
   font-style: oblique;
   color: white;
   text-align: center;
+  font-size: 35px
+}
+
+.weather{
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+.location{
+  color: white;
+  font-size: 70px;
+  text-align: center;
+}
+#image{
+  text-align: center;
+}
+.image{
+  max-width: 10%
+  }
+
+.button{
+  text-align: center;
+  padding-top: 1%
 }
